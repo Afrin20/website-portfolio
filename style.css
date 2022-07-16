@@ -8,6 +8,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
 .half-width{
     width: 50%;
@@ -30,5 +31,16 @@ section{
     background-repeat: no-repeat;
  }
 
-
+ .second-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#second{
+    font-size: 30px;
+}
+#second-img{
+    width: 60%;
+}
 
