@@ -6,7 +6,7 @@ body{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 80px;
 }
@@ -42,5 +42,11 @@ section{
 }
 #second-img{
     width: 60%;
+}
+.add-shadow{
+    box-shadow: 10px 10px brown;
+}
+footer p{
+    text-align: center;
 }
 
